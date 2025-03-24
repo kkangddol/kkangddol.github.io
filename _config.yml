@@ -16,8 +16,7 @@ timezone: Asia/Seoul
 
 title: 깡똘의 격납고 # the main title
 
-tagline: 지식을 조립해
-우주선을 만들자 # it will display as the subtitle
+tagline: 지식을 조립해\n우주선을 만들자 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   게임 개발자 깡똘의 블로그 입니다. 주로 개발에 관련된 것들을 공부하고 올립니다. 뿐만 아니라 차곡차곡 쌓아두기 좋은 것들을 저장합니다.
