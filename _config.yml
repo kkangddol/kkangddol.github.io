@@ -223,7 +223,5 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
-
-plugins:
-   - jekyll-target-blank
+    category: /categories/:name/  
+    
